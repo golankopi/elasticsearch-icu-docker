@@ -1,8 +1,4 @@
-mattermost-elasticsearch-docker
+ElasticSearch ICU Docker
 ===============================
 
-ElasticSearch Dockerfile for use with Mattermost for development purposes.
-
-At the moment, this is just the upstream ElasticSearch container with the ICU plugin installed.
-
-
+![foo](https://image.slidesharecdn.com/dockerindevprod-150527165507-lva1-app6891/95/running-docker-in-development-production-devsum-2015-48-638.jpg?cb=1432745845)
